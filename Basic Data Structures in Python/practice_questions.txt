@@ -1,0 +1,6 @@
+1) Write a program to convert your name from lowercase letters to uppercase letters. 
+2) Count the number of letters in the given word
+3) Count the number of vowel from the given word and display the vowel with the position. 
+4) Identify the specfic letter from the given word. 
+5) Reverse a string by word
+6) Convert the meaning full first letter to capitalize
